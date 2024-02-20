@@ -24,7 +24,7 @@
    <maxResponseSize>0</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>GET</restRequestMethod>
-   <restUrl>https://z74oq.wiremockapi.cloud/v1/api/users/2</restUrl>
+   <restUrl>${GlobalVariable.BASE_URL}/v1/api/users/2</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>

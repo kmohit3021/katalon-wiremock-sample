@@ -36,7 +36,7 @@
    <maxResponseSize>0</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>POST</restRequestMethod>
-   <restUrl>https://z74oq.wiremockapi.cloud/v1/api/new/users</restUrl>
+   <restUrl>${GlobalVariable.BASE_URL}/v1/api/new/users</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
